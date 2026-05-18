@@ -256,17 +256,6 @@ run -all
 ```bash
 gtkwave dump.vcd
 ```
-
----
-
-# 📊 Expected Output Sequence
-
-```text
-RED → GREEN → YELLOW → RED
-```
-
-The sequence continuously repeats.
-
 ---
 
 # 🚀 Applications
