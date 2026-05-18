@@ -303,18 +303,6 @@ Traffic Light Controllers are widely used in:
 
 ---
 
-# 📚 Learning Outcomes
-
-This project helps in understanding:
-
-- Finite State Machines (FSM)
-- Sequential circuit design
-- Verilog HDL coding
-- Traffic signal control logic
-- Digital system simulation
-- Waveform verification
----
-
 # 👨‍💻 Author
 
 ## Adith Soragu
