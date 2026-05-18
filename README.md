@@ -313,20 +313,6 @@ This project helps in understanding:
 - Traffic signal control logic
 - Digital system simulation
 - Waveform verification
-
----
-
-# 🔮 Future Enhancements
-
-The project can be extended by adding:
-
-- Timer-based signal control
-- Vehicle density sensors
-- Emergency vehicle priority
-- Pedestrian crossing system
-- Smart traffic monitoring
-- FPGA implementation
-
 ---
 
 # 👨‍💻 Author
