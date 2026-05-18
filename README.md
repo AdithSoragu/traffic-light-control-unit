@@ -243,14 +243,6 @@ vsim tb_traffic_light
 
 ---
 
-## Step 3: Run Simulation
-
-```bash
-run -all
-```
-
----
-
 # 🚀 Applications
 
 Traffic Light Controllers are widely used in:
