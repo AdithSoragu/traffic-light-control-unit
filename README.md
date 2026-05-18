@@ -269,17 +269,6 @@ The sequence continuously repeats.
 
 ---
 
-# 📈 Waveform Analysis
-
-The waveform verifies:
-- Proper FSM operation
-- Correct signal transitions
-- Clock synchronization
-- Reset behavior
-- Sequential traffic control
-
----
-
 # 🚀 Applications
 
 Traffic Light Controllers are widely used in:
