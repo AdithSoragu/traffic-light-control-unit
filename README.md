@@ -251,13 +251,6 @@ run -all
 
 ---
 
-## Step 4: View Waveform
-
-```bash
-gtkwave dump.vcd
-```
----
-
 # 🚀 Applications
 
 Traffic Light Controllers are widely used in:
