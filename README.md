@@ -209,11 +209,7 @@ Updates state at every positive edge of clock.
 
 ```verilog
 case(state)
-```
 
-Controls transition between traffic light states.
-
----
 
 ---
 
