@@ -122,13 +122,6 @@ Traffic_Light_Control_Unit/
 
 ---
 
-
-
-
-
-
-
-
 ---
 
 # 🚀 Applications
