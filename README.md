@@ -220,10 +220,7 @@ Controls transition between traffic light states.
 The testbench verifies:
 - State transitions
 - Signal timing
-- Reset operation
-- Proper sequence of traffic lights
 
----
 
 
 ---
