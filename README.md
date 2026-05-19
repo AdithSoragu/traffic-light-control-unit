@@ -155,12 +155,6 @@ The traffic controller changes traffic signals sequentially based on clock cycle
 
 ---
 
-
-
-
-
-
-
 ---
 
 # 🚀 Applications
