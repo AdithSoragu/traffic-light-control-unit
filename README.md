@@ -169,10 +169,6 @@ The traffic controller changes traffic signals sequentially based on clock cycle
 - Yellow LED turns ON
 - Red and Green remain OFF
 
----
-
-# 🧩 Verilog Design Explanation
-
 
 
 ---
