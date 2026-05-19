@@ -215,10 +215,6 @@ Controls transition between traffic light states.
 
 ---
 
-
-
-
-
 ---
 
 # 🚀 Applications
