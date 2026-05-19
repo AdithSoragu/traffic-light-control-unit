@@ -195,11 +195,7 @@ Stores current traffic light state.
 
 ---
 
-## Sequential Logic
 
-```verilog
-always @(posedge clk or negedge rst_n)
-```
 
 ---
 
