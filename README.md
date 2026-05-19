@@ -122,14 +122,7 @@ Traffic_Light_Control_Unit/
 
 ---
 
-# 📌 Input Signals
 
-| Signal | Type | Description |
-|--------|------|-------------|
-| clk | Input | System Clock |
-| rst_n | Input | Active Low Reset |
-
----
 
 
 
