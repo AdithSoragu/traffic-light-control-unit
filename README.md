@@ -161,13 +161,7 @@ The traffic controller changes traffic signals sequentially based on clock cycle
 - Green LED turns ON
 - Red and Yellow remain OFF
 
----
 
-## 🟡 YELLOW State
-
-- Warning state before RED
-- Yellow LED turns ON
-- Red and Green remain OFF
 
 
 
