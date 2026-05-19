@@ -82,15 +82,7 @@ The FSM contains different states representing traffic light conditions.
             │
             ▼
           RED
-```
 
----
-
-# 📂 Project Structure
-
-```text
-Traffic_Light_Control_Unit/
-│
 ```
 
 # 🛠️ Tools Used
