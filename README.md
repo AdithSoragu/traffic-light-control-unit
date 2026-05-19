@@ -225,15 +225,6 @@ The testbench verifies:
 
 ---
 
-# ▶️ Simulation Procedure
-
-## Step 1: Compile Files
-
-```bash
-vlog traffic_light.v tb_traffic_light.v
-```
-
-
 
 ---
 
