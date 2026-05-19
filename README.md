@@ -188,12 +188,7 @@ Defines different FSM states.
 ## State Register
 
 ```verilog
-reg [1:0] state;
-```
 
-Stores current traffic light state.
-
----
 
 
 
