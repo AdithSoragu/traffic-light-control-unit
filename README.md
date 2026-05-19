@@ -131,15 +131,7 @@ Traffic_Light_Control_Unit/
 
 ---
 
-# 📌 Output Signals
 
-| Signal | Description |
-|--------|-------------|
-| red | Red Light Signal |
-| yellow | Yellow Light Signal |
-| green | Green Light Signal |
-
----
 
 
 
