@@ -105,9 +105,7 @@ Traffic_Light_Control_Unit/
 |-----------|-------|
 | Design Type | Synchronous |
 | HDL Used | Verilog HDL |
-| Clock Type | Single Clock |
-| Reset | Active Low |
-| Output Signals | Red, Yellow, Green |
+
 
 ---
 
