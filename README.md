@@ -185,7 +185,6 @@ Defines different FSM states.
 
 ---
 
-## State Register
 
 ---
 
