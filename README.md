@@ -155,11 +155,7 @@ The traffic controller changes traffic signals sequentially based on clock cycle
 
 ---
 
-## 🟢 GREEN State
 
-- Allows vehicle movement
-- Green LED turns ON
-- Red and Yellow remain OFF
 
 
 
