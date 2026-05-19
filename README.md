@@ -187,11 +187,6 @@ Defines different FSM states.
 
 ## State Register
 
-```verilog
-
-
-
-
 ---
 
 # 🚀 Applications
