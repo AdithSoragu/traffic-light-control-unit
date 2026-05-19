@@ -99,13 +99,6 @@ Traffic_Light_Control_Unit/
 
 ---
 
-# ⚙️ Project Specifications
-
-| Parameter | Value |
-
-
----
-
 # 🛠️ Tools Used
 
 | Tool | Purpose |
