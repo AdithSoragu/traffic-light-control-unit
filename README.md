@@ -91,13 +91,7 @@ The FSM contains different states representing traffic light conditions.
 ```text
 Traffic_Light_Control_Unit/
 │
-├── traffic_light.v      # Traffic Light Controller Design
-├── tb_traffic_light.v   # Testbench File
-├── dump.vcd             # Waveform Dump File
-└── README.md            # Documentation
 ```
-
----
 
 # 🛠️ Tools Used
 
