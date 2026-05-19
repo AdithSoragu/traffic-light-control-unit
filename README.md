@@ -147,13 +147,7 @@ The traffic controller changes traffic signals sequentially based on clock cycle
 
 ---
 
-## 🔴 RED State
 
-- Stops vehicle movement
-- Red LED turns ON
-- Green and Yellow remain OFF
-
----
 
 ---
 
