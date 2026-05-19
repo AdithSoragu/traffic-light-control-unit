@@ -215,11 +215,7 @@ Controls transition between traffic light states.
 
 ---
 
-# 🧪 Testbench Description
 
-The testbench verifies:
-- State transitions
-- Signal timing
 
 
 
