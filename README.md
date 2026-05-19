@@ -102,9 +102,6 @@ Traffic_Light_Control_Unit/
 # ⚙️ Project Specifications
 
 | Parameter | Value |
-|-----------|-------|
-| Design Type | Synchronous |
-| HDL Used | Verilog HDL |
 
 
 ---
