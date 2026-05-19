@@ -233,13 +233,7 @@ The testbench verifies:
 vlog traffic_light.v tb_traffic_light.v
 ```
 
----
 
-## Step 2: Start Simulation
-
-```bash
-vsim tb_traffic_light
-```
 
 ---
 
