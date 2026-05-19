@@ -181,10 +181,6 @@ parameter RED = 2'b00,
           YELLOW = 2'b10;
 ```
 
-Defines different FSM states.
-
----
-
 
 ---
 
