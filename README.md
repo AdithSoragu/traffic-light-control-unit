@@ -207,10 +207,6 @@ Updates state at every positive edge of clock.
 
 ## State Transition Logic
 
-```verilog
-case(state)
-
-
 ---
 
 # 🚀 Applications
