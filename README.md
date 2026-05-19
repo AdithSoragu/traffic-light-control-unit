@@ -141,11 +141,6 @@ Traffic_Light_Control_Unit/
 
 ---
 
-# 🔄 Working Principle
-
-The traffic controller changes traffic signals sequentially based on clock cycles.
-
----
 
 
 
