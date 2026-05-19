@@ -201,12 +201,6 @@ Stores current traffic light state.
 always @(posedge clk or negedge rst_n)
 ```
 
-Updates state at every positive edge of clock.
-
----
-
-## State Transition Logic
-
 ---
 
 # 🚀 Applications
