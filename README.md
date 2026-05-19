@@ -118,7 +118,7 @@ Traffic_Light_Control_Unit/
 | Verilog HDL | Hardware Design |
 | ModelSim | Simulation |
 | QuestaSim | Verification |
-| GTKWave | Waveform Viewing |
+
 
 ---
 
