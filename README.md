@@ -173,13 +173,6 @@ The traffic controller changes traffic signals sequentially based on clock cycle
 
 # 🧩 Verilog Design Explanation
 
-## State Declaration
-
-```verilog
-parameter RED = 2'b00,
-          GREEN = 2'b01,
-          YELLOW = 2'b10;
-```
 
 
 ---
